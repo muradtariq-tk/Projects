@@ -1,0 +1,6 @@
+Systematic reviews are types of literature reviews that collect and critically analyze multiple research studies or papers, using methods that are selected before one or more research questions are formulated, and then finding and analyzing studies that relate to and answer those questions in a structured methodology.[1] They are designed to provide a complete, exhaustive summary of current literature relevant to a research question. Systematic reviews of randomized controlled trials are key in the practice of evidence-based medicine,[2] and a review of existing studies is often quicker and cheaper than embarking on a new study.
+
+----------------------------------------------------------------
+
+1. They do not perform any experiment to validate a hypothesis.
+2. They should present unbiased trend of the technology.

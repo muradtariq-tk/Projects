@@ -1,0 +1,12 @@
+Q1:	What is the main problem?
+	EMS systems are not linked
+	if linked it has trust issues
+
+Q2:	What is the main contribution?
+	Framework for EMS Blockchain compatibility.
+
+Q3:	Missing issue?
+	- Lets EMS is blockchain based. 
+	- Patient has history of medecine recommendation
+	- Wrong medicine recommendation killed the patient
+	- Auditing of doctors skill can be enabled using blockchain

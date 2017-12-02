@@ -1,0 +1,12 @@
+Q1.	What are the highlighted problems ? 
+	- Humans are becomming more dependent on smart devices
+	- Smart devices can be shared for better economical future
+	- How to trust device usage independent of human ?
+	- Smart economy at stake.
+
+Q2.	What are dapps?
+	
+Q3. 	Elaborate different smart contract / economy usecase.
+
+Q4. 	What is the main contribution ?
+	Enabling of micropayments using smartcontracts enabled IoT devices.
