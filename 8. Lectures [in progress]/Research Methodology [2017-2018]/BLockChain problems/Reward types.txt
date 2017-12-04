@@ -1,0 +1,8 @@
+Q1. Is reward the only method to make blockchain decentralized ?
+
+Q2. What are different types of rewards to mine a block ?
+
+Q3. Is Transaction verification (numeric problem solving) only method to reward a contributor ?
+
+Q4. What if difficulty of a block verification is not increased with time ?
+

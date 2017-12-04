@@ -1,0 +1,7 @@
+Q1. Is it important to maintain a chain in its original form even if it is growing exponentially ?
+
+Q2. Can searchable compression be applied to blocks ?
+
+Q3. can searchable encryption play any important role in blocksize reduction ?
+
+
