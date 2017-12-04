@@ -4,8 +4,8 @@ Majority of the content is finalized, whereas, next iterations are outlined insi
 
 
 --[ 2nd : TEAM MEMBERS ]--
-This project has cleared its 
 
+This project has cleared its 
 - first stage with great input from
 	- Naeem Abbas
 
