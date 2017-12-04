@@ -1,0 +1,5 @@
+Journal has to have two conferences
+
+Each conferences can have 500 papers among which best 25 papers will be published inside the journal.
+
+Journal will also have two issues per year. papers will be collected using conferences, whereas, at later stages special issues, Direct submission can be implemented.
